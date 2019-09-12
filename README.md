@@ -15,6 +15,8 @@ The likelyhood is  the chances of the event happening.
 + Possible (3) - Could happen or known to happen / once a year
 + Likely (4) - Could easily happen / once a month
 + Almost Certain (5) - Often occurs / once a week
+
+
 ## Consequences (X Axis)
 The consequences are the result of the event.
 + Insignificant (1) - No injuries / minimal financual loss.
@@ -22,6 +24,7 @@ The consequences are the result of the event.
 + Moderate (3) - Medical treatment / high financual loss.
 + Major (4) - Hospitalble / large finacual loss.
 + Catestrophic (5) - Death / massive financual loss.
+
 
 |||*Consequences*|||
 |----------------------|-----------------|--------------|------------|----------|---------|
