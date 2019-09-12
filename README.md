@@ -23,8 +23,8 @@ The consequences are the result of the event.
 + Major (4) - Hospitalble / large finacual loss.
 + Catestrophic (5) - Death / massive financual loss.
 
-|Consequences|||||
-|-------------|--------------|------------|----------|---------|
-|LikelyhoodInsignificant|Minor|Moderate|Major|Catestrophic|
-|Likely|||||
+|||Consequences|||
+|----------------------|-----------------|--------------|------------|----------|---------|
+|Likelyhood|Insignificant|Minor|Moderate|Major|Catestrophic|
+|Alomost Certain|Moderate(5)|High(10)|High(10)|Catestrophic(20)|Catestrophic(25)
 
